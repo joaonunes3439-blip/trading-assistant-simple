@@ -1,0 +1,2 @@
+# Trading Assistant Simple
+
